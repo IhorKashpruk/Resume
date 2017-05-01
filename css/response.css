@@ -1,0 +1,48 @@
+@media all and (max-width: 1200px) and (min-width: 270px){
+	#wraper{
+		width: 100%;	
+	}
+	h1 {
+		font-size: 40px;
+	}
+	h3 {
+		font-size: 20px;
+	}
+}
+
+@media all and (min-width: 750px) and (max-width: 1200px){
+	.header-column {
+		text-align: left;
+	}
+}
+
+@media all and (max-width: 749px){
+	.header-column {
+		text-align: center;
+	}
+	.group_li_social {
+		text-align: center;
+	}
+}
+
+@media all and (max-width: 270px){
+	#wraper{
+		width: 270px;
+	}
+	h1 {
+		font-size: 40px;
+	}
+	h3 {
+		font-size: 20px;
+	}
+}
+
+
+@media all and (min-width: 1201px){
+	#wraper{
+		width: 1230px;	
+	}
+	.header-column {
+		text-align: left;
+	}
+}
